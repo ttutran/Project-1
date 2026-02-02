@@ -10,7 +10,7 @@ PM2.5, and PM10, and to evaluate how environmental factors such as temperature, 
 #### Raw data: AirQuality_Daily_StudentVersion.csv
 
 ### Method
-#### All analysis was performed using Python and the pandas library in a Jupyter Notebook. The data were #### grouped by sensor name to calculate summary statistics, identify maximum pollution events, evaluate AQI risk days, and examine #### relationships between air quality and environmental conditions.
+#### All analysis was performed using Python and the pandas library in a Jupyter Notebook. The data were grouped by sensor name to calculate summary statistics, identify maximum pollution events, evaluate AQI risk days, and examine relationships between air quality and environmental conditions.
 
 ### Files in This Repository
 #### Project1_Python_codes.ipynb – Jupyter Notebook containing all Python code used for the analysis
